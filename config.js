@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "I've got a question to ask you...heheheheheheh",                                    // First interaction
+            yesBtn: "Huh",                                             // Text for "Yes" button
+            noBtn: "I'm intrigued",                                               // Text for "No" button
+            secretAnswer: "Dafuq"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "Craaazy, you love me THIS MUCH!!! 🤯💞🍆❤️‍🔥",  // Shows when they go past 5000%
+        high: "Oh my goodness I'm feeling the love!! 😱😍💗",              // Shows when they go past 1000%
+        normal: "Keep Going 🤗😘"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Woot Woot!! You've made me the happiest person in the world! 🎉💝💖💝💓",
+        message: "I am so lucky and grateful to be your Valentine!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
